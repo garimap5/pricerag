@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+xgboost
+faiss-cpu
+fastapi
+uvicorn
+pydantic
+joblib
+matplotlib
+httpx2      # test client
+pytest
+# optional: sentence-transformers (dense embeddings), anthropic (LLM estimator)
